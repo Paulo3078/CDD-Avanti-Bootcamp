@@ -2,6 +2,6 @@
 
 ...
 ## Desenvolvedores
- - Paulo Eduardo da Silva (github.com/Paulo3078)
+ - Paulo Eduardo da Silva (https://github.com/Paulo3078)
 
 
