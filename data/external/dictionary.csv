@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+total_bill,valor da conta,quantitativa,contínua
+tip,Valor da gorjeta,quantitativa,contínua
+sex,Sexo do indivíduo,qualitativa,nominal
+smoker,Se havia algum fumante na mesa,qualitativa,nominal
+day,Dia da semana,qualitativa,ordinal
+time,período do dia,qualitativa,ordinal
+size,Quantidade de pessoas à mesa,quantitativa,discreta
